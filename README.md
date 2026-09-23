@@ -25,8 +25,8 @@ Unlike on premium newswires, the one consistent gain of the residualization ladd
 Accessible news is cheaper, but the price is paid in performance. The research quantifies this trade-off as the Premium Gap: under methodological configurations aligned with the literature, the gap is positive wherever a benchmark reference exists. Corroborated by two distinct premium providers (Dow Jones and Reuters).
 
 3. **Signal Concentration: Headlines vs. Body**  
-On the broad universe, the predictive signal is concentrated in the article headlines, while the body text dilutes it. Restricting the input to headlines strengthens alphas across all benchmarks, achieving significance against factor models as demanding as the 13 theme portfolios of Jensen et al. (2023) while retaining a statistically significant market alpha net of transaction costs.
-This stronger input is also the cheapest to embed computationally, a finding particularly relevant to the audience an accessible provider might serve.
+On the broad universe, the predictive signal is stronger in the article headlines, while the body text dilutes it. Restricting the input to headlines strengthens alphas across all benchmarks considered, achieving significance against factor models as demanding as the 13 theme portfolios of Jensen et al. (2023) while retaining a statistically significant market alpha net of transaction costs.
+This stronger input is also the cheapest to embed computationally, a finding particularly relevant to the client base an accessible provider might serve.
 
 ## Repository Contents
 * `Master_Thesis_Rocco_Ventruto.pdf`: The full research document detailing the mathematical framework, factor exposures, robustness checks, and replication notes regarding reference papers.
