@@ -1,4 +1,7 @@
 # News-Based Systematic Strategies: Evidence from Accessible Providers with Point-In-Time Language Models
+*Master's Thesis in Financial Engineering (MSc) — EPFL*
+*Under the academic supervision of Prof. Semyon Malamud*
+*Awarded with the maximum grade of 6.0/6.0*
 
 > **Confidentiality Note:** The source code and raw data for this project were developed in collaboration with a hedge fund and are proprietary. This repository contains the final Master's Thesis document and a high-level analytical overview of the methodologies and findings.
 
@@ -24,7 +27,6 @@ Accessible news is cheaper, but the price is paid in performance. The research q
 
 3. **Signal Concentration: Headlines vs. Body**  
 On the broad universe, the predictive signal is concentrated in the article headlines, while the body text dilutes it. Restricting the input to headlines strengthens alphas across all benchmarks, achieving significance against factor models as demanding as the 13 theme portfolios of Jensen et al. (2023) while retaining a statistically significant market alpha net of transaction costs.
-
 This stronger input is also the cheapest to embed computationally, a finding particularly relevant to the audience an accessible provider might serve.
 
 ## Repository Contents
