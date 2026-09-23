@@ -3,7 +3,7 @@
 *Under the academic supervision of Prof. Semyon Malamud*  
 *Awarded with the maximum grade of 6.0/6.0*
 
-> **Confidentiality Note:** The source code and raw data for this project were developed in collaboration with a hedge fund and are proprietary. This repository contains the final Master's Thesis document and a high-level analytical overview of the methodologies and findings.
+
 
 ## Context & Objective
 Large language models (LLMs) can extract predictive signals for equity returns from financial news. However, the existing literature relies almost entirely on premium, institutional newswires (e.g., Dow Jones, Reuters). This thesis investigates whether accessible news carries a genuine predictive signal, and whether the "pure news anomaly" of Didisheim et al. (2026) holds when applied to it.
@@ -31,3 +31,6 @@ This stronger input is also the cheapest to embed computationally, a finding par
 
 ## Repository Contents
 * `Master_Thesis_Rocco_Ventruto.pdf`: The full research document detailing the mathematical framework, factor exposures, robustness checks, and replication notes regarding reference papers.
+
+## Data Availability & Confidentiality
+The source code and raw data for this project were developed in collaboration with a hedge fund and are proprietary. This repository contains the final Master's Thesis document and a high-level analytical overview of the methodologies and findings.
