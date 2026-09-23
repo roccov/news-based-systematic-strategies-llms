@@ -1,7 +1,7 @@
 # News-Based Systematic Strategies: Evidence from Accessible Providers with Point-In-Time Language Models
-*Master's Thesis in Financial Engineering (MSc) — EPFL*  
-*Under the academic supervision of Prof. Semyon Malamud*  
-*Awarded with the maximum grade of 6.0/6.0*
+
+> **Master's Thesis in Financial Engineering (MSc)** — EPFL
+> Supervised by Prof. Semyon Malamud | Grade: 6.0/6.0
 
 
 
