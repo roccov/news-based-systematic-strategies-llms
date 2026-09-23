@@ -19,7 +19,7 @@ The pipeline combines two core methodologies from the recent literature:
 ## Key Findings
 
 1. **The "Pure News Anomaly" Does Not Replicate on Accessible Data**  
-Unlike on premium newswires, the one consistent gain of the residualization ladder is the cross-sectional demean. Beyond it, purging firm characteristics adds little value at best, and degrades performance at the deepest levels. This suggests that the orthogonal component of accessible news either lacks the re-valuing information found in premium feeds, or that the market absorbs it without delay.
+Unlike on premium newswires, the one consistent gain of the residualization ladder is the cross-sectional demean. Beyond it, purging firm characteristics adds little value at best. This suggests that the orthogonal component of accessible news either lacks the re-valuing information found in premium feeds, or that the market absorbs it without delay.
 
 2. **Quantification of the "Premium Gap"**  
 Accessible news is cheaper, but the price is paid in performance. The research quantifies this trade-off as the Premium Gap: under methodological configurations aligned with the literature, the gap is positive wherever a benchmark reference exists. Corroborated by two distinct premium providers (Dow Jones and Reuters).
