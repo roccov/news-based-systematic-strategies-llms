@@ -34,4 +34,3 @@ This stronger input is also the cheapest to embed computationally, a finding par
 ## Data Availability & Confidentiality
 The raw financial news data used in this research is subject to strict commercial licensing and cannot be publicly redistributed. Furthermore, the source code for the extraction and backtesting pipeline was developed in collaboration with a hedge fund and remains proprietary. 
 
-This repository contains the full Master's Thesis document, which details the complete theoretical framework, methodology, and empirical findings.
