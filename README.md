@@ -33,4 +33,6 @@ This stronger input is also the cheapest to embed computationally, a finding par
 * `Master_Thesis_Rocco_Ventruto.pdf`: The full research document detailing the mathematical framework, factor exposures, robustness checks, and replication notes regarding reference papers.
 
 ## Data Availability & Confidentiality
-The source code and raw data for this project were developed in collaboration with a hedge fund and are proprietary. This repository contains the final Master's Thesis document and a high-level analytical overview of the methodologies and findings.
+The raw financial news data used in this research is subject to strict commercial licensing and cannot be publicly redistributed. Furthermore, the source code for the extraction and backtesting pipeline was developed in collaboration with a hedge fund and remains proprietary. 
+
+This repository contains the full Master's Thesis document, which details the complete theoretical framework, methodology, and empirical findings.
