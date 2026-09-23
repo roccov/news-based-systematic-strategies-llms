@@ -1,4 +1,4 @@
-# News-Based Systematic Strategies: Evidence from Accessible Language Models
+# News-Based Systematic Strategies: Evidence from Accessible Providers with Point-In-Time Language Models
 
 > **Confidentiality Note:** The source code and raw data for this project were developed in collaboration with a hedge fund and are proprietary. This repository contains the final Master's Thesis document and a high-level analytical overview of the methodologies and findings.
 
