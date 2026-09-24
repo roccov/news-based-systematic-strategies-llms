@@ -32,5 +32,5 @@ This stronger input is also the cheapest to embed computationally, a finding par
 * `Master_Thesis.pdf`: The full research document detailing the mathematical framework, factor exposures and alphas, robustness checks, and replication notes regarding reference papers.
 
 ## Data Availability & Confidentiality
-The raw financial news data used in this research is subject to strict commercial licensing and cannot be publicly redistributed. Furthermore, the source code for the extraction and backtesting pipeline was developed in collaboration with a hedge fund and remains proprietary. 
+The raw financial news data used in this research is subject to commercial licensing and cannot be publicly redistributed. Furthermore, the source code for the extraction and backtesting pipeline was developed in collaboration with a hedge fund and remains proprietary. 
 
